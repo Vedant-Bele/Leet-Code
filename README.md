@@ -15,10 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vedant-Bele/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Vedant-Bele/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Vedant-Bele/Leet-Code/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vedant-Bele/Leet-Code/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Vedant-Bele/Leet-Code/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Vedant-Bele/Leet-Code/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
