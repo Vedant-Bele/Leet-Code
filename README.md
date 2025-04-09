@@ -38,9 +38,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedant-Bele/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Vedant-Bele/Leet-Code/tree/master/0039-combination-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vedant-Bele/Leet-Code/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedant-Bele/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedant-Bele/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
