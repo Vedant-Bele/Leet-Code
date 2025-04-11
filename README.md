@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vedant-Bele/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vedant-Bele/Leet-Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Vedant-Bele/Leet-Code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Vedant-Bele/Leet-Code/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Vedant-Bele/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Vedant-Bele/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Vedant-Bele/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Vedant-Bele/Leet-Code/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
