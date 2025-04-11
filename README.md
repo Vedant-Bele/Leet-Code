@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vedant-Bele/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Vedant-Bele/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedant-Bele/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Vedant-Bele/Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vedant-Bele/Leet-Code/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Vedant-Bele/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,4 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedant-Bele/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vedant-Bele/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vedant-Bele/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vedant-Bele/Leet-Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
