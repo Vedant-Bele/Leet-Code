@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vedant-Bele/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vedant-Bele/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant-Bele/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Vedant-Bele/Leet-Code/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Vedant-Bele/Leet-Code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vedant-Bele/Leet-Code/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Vedant-Bele/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Vedant-Bele/Leet-Code/tree/master/0049-group-anagrams) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vedant-Bele/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vedant-Bele/Leet-Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vedant-Bele/Leet-Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Vedant-Bele/Leet-Code/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Vedant-Bele/Leet-Code/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Vedant-Bele/Leet-Code/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
