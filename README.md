@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Vedant-Bele/Leet-Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vedant-Bele/Leet-Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vedant-Bele/Leet-Code/tree/master/0049-group-anagrams) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vedant-Bele/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,8 +150,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Vedant-Bele/Leet-Code/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Vedant-Bele/Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vedant-Bele/Leet-Code/tree/master/0049-group-anagrams) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vedant-Bele/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vedant-Bele/Leet-Code/tree/master/0048-rotate-image) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vedant-Bele/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 <!---LeetCode Topics End-->
